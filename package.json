@@ -1,0 +1,8 @@
+{
+  "name": "talk-room",
+  "version": "0.0.1",
+  "description": "a websockets app for local chat",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
